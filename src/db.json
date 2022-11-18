@@ -1,0 +1,131 @@
+{
+  "productList": [
+    {
+      "productName": "brinjal",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 60,
+      "comment": "delicious",
+      "date": "2022-11-02T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Dragon",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "effective for health",
+      "date": "2022-11-15T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "motar",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 120000,
+      "comment": "its a new",
+      "date": "2022-11-02T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "potato",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 509,
+      "comment": "awesome",
+      "date": "2022-11-04T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 78,
+      "comment": "sweet",
+      "date": "2022-11-04T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "brinjal",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 60,
+      "comment": "fresh and delicious",
+      "date": "2022-11-09T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": -19,
+      "comment": "sweet",
+      "date": "2022-11-03T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "aa",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": -2,
+      "comment": "fg",
+      "date": "2022-11-04T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "grr",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": -3,
+      "comment": "fg",
+      "date": "2022-11-04T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "df",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 7,
+      "comment": "df",
+      "date": "2022-11-03T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "df",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": -6,
+      "comment": "gh",
+      "date": "2022-11-04T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "fg",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 90,
+      "comment": "hj",
+      "date": "2022-11-11T18:30:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "gg",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 90,
+      "comment": "df",
+      "date": "2022-11-28T18:30:00.000Z",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
